@@ -1,5 +1,5 @@
 
-# Assignments 3 and 4: Neural Network Classifier for Spine Condition Classification
+# Assignments 3 and 4: ANN and CNN
 
 ## Overview
 This repository contains the implementation for two assignments aimed at classifying human spine conditions as normal or abnormal using the `spine.csv` dataset.
@@ -34,7 +34,7 @@ This assignment involves using logistic regression to classify human spine condi
 - Output Confusion Matrix: [output-Q3.png](Code/output-Q3.png)
 - Detailed Report: [ML-Assignment3.pdf](ML-Assignment3.pdf)
 
-## Assignment 4: Fully Connected Neural Network Classifier
+## Assignment 4: Convolutional Neural Network Classifier
 
 ### Introduction
 This assignment involves training a fully connected neural network to classify human spine conditions as normal or abnormal using the `spine.csv` dataset. The task was to predict the class label based on the provided features.
